@@ -23,11 +23,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Azure Tenant Connected
+- Connect to your Virtual Machine with Remote Desktop
+- Install / Enable IIS in Windows
+- Install osTicket on Vitual Machine
+- Reload / Enable Extensions in IIS
+- Assign Permissions
 
 <h2>Installation Steps</h2>
 
